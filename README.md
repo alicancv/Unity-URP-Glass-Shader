@@ -14,4 +14,4 @@ Installation and Usage:
 - Dont forget to check "Opaque Texture" option in your URP asset.
 - Assign "AS_GlassMat" or a material created from "AS_GlassShader" to your glass objects and change parameters according to your liking.
 
-## Use reflection probes for reflections
+-- Use reflection probes for reflections --
